@@ -3,7 +3,7 @@ import './App.styl';
 
 import { BrowserRouter, Route } from 'react-router-dom'
 
-import Login from './page/Login/Login.jsx'
+import Login from './page/Login/Login'
 
 class App extends Component {
   render() {
